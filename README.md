@@ -1,2 +1,2 @@
-# nvim-setup
-my nvim setup
+# neovim-setup
+my neovim setup
