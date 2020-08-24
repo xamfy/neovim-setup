@@ -18,3 +18,6 @@ mkdir ~/.config/nvim
 ```
 nvim +PlugInstall
 ```
+
+### Install Ubuntu Nerd Font complete
+Download font from [Nerd Fonts](https://github.com/ryanoasis/nerd-fonts/tree/master/patched-fonts/Ubuntu/Regular/complete) and install.
