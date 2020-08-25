@@ -14,6 +14,11 @@ curl -fLo ~/.local/share/nvim/site/autoload/plug.vim --create-dirs \
 mkdir ~/.config/nvim
 ```
 
+### get the config
+```
+curl -o ~/.config/nvim/init.vim https://raw.githubusercontent.com/xamfy/neovim-setup/master/init.vim
+```
+
 ### To install plugins using vim-plug
 ```
 nvim +PlugInstall
