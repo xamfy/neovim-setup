@@ -63,6 +63,7 @@ let g:fzf_action = {
 let g:coc_global_extensions = [
   \ 'coc-snippets',
   \ 'coc-pairs',
+  \ 'coc-clangd',
   \ 'coc-tsserver',
   \ 'coc-eslint', 
   \ 'coc-prettier', 
