@@ -26,3 +26,11 @@ nvim +PlugInstall
 
 ### Install Ubuntu Nerd Font complete
 Download font from [Nerd Fonts](https://github.com/ryanoasis/nerd-fonts/tree/master/patched-fonts/Ubuntu/Regular/complete) and install.
+
+### Coc extensions
+[Using Coc extensions](https://github.com/neoclide/coc.nvim/wiki/Using-coc-extensions)
+
+### For C++ install clangd language server
+```
+sudo apt install clangd-10
+```
